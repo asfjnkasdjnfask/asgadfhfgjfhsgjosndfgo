@@ -125,7 +125,7 @@ function GetBadges(flags) {
 		badges += "<:developer:937840054427082823>, "
 	}
 	if (badges == "") {
-		badges = "<:early:937840054187982889>"
+		badges = "Rozet Bulunmuyor."
 	}
 	return badges
 }
